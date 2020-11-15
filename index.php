@@ -1,5 +1,9 @@
 <!DOCTYPE HTML>
-
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>My Personal Website</title>
@@ -32,7 +36,7 @@
 						<div class="inner">
 							<h1>My Personal Website</h1>
 							<p>Welcome to my Personal Website my name is Aleck Miguel Celen</p>
-							<a class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+							<a class="image"><img src="images/aleck.jpg" alt="" data-position="25% 25%" /></a>
 							</ul>
 						</div>
 					</section>
